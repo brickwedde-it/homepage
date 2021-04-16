@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>brickwedde.it</title>
+    <link>/</link>
+    <description>Recent content on brickwedde.it</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de</language>
+    <lastBuildDate>Fri, 22 Jan 2021 20:31:41 +0200</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>hello world</title>
+      <link>/home/home/</link>
+      <pubDate>Fri, 22 Jan 2021 20:31:41 +0200</pubDate>
+      
+      <guid>/home/home/</guid>
+      <description>Name: Bastian Brickwedde Skills:  Softwareentwicklung  iOS Apps(Swift) Schnittstellenentwicklung(Rest/Soap u.v.m) Php Python Script Sprachen(bash) Softwarearchitektur  Datenbankdesign(MSSQL,MYSQL,SQLITE) Plattformübergreifende Applikation(iOS &amp;lt;&amp;gt; WebService &amp;lt;&amp;gt; SAP ERP u.v.m.)     Prozessberatung/BI  Zertifizierter Prozessmanager Qlik Developer ProcessMining   Projektleiter u. Enwtickler  div. Business Applikationen IT Infrastrukturprojekte Geschäftsprozessoptimierungen   IT Fundament  Weitreichende Linux Kenntnisse  Debian, Archlinux, Ubuntu, CentOS, Gentoo u.v.m  Entwicklung von kundenspezifischen Distributionen(u.a. als ThinClient Ersatz)   Docker Hosting Nagios/Icinga/Grafana Entwicklung   Weitreichende Windows Kenntnisse  Ab Windows Server 2003   Hosting/DevOps  Cloud Lösungen Git Docker VMWare Ansible AWX Veeam     Branchenwissen  Dienstleister im Gesundheitswesen    Habe ich ihr Interesse geweckt:</description>
+      <content>&lt;h1 id=&#34;name-bastian-brickwedde&#34;&gt;Name: Bastian Brickwedde&lt;/h1&gt;
+&lt;h2 id=&#34;skills&#34;&gt;Skills:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Softwareentwicklung
+&lt;ul&gt;
+&lt;li&gt;iOS Apps(Swift)&lt;/li&gt;
+&lt;li&gt;Schnittstellenentwicklung(Rest/Soap u.v.m)&lt;/li&gt;
+&lt;li&gt;Php&lt;/li&gt;
+&lt;li&gt;Python&lt;/li&gt;
+&lt;li&gt;Script Sprachen(bash)&lt;/li&gt;
+&lt;li&gt;Softwarearchitektur
+&lt;ul&gt;
+&lt;li&gt;Datenbankdesign(MSSQL,MYSQL,SQLITE)&lt;/li&gt;
+&lt;li&gt;Plattformübergreifende Applikation(iOS &amp;lt;&amp;gt; WebService &amp;lt;&amp;gt; SAP ERP u.v.m.)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Prozessberatung/BI
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.ibo.de/loesungen/beratung/prozessmanagement&#34;&gt;Zertifizierter Prozessmanager&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.qlik.com/&#34;&gt;Qlik Developer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://mpm-processmining.com/&#34;&gt;ProcessMining&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Projektleiter u. Enwtickler
+&lt;ul&gt;
+&lt;li&gt;div. Business Applikationen&lt;/li&gt;
+&lt;li&gt;IT Infrastrukturprojekte&lt;/li&gt;
+&lt;li&gt;Geschäftsprozessoptimierungen&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;IT Fundament
+&lt;ul&gt;
+&lt;li&gt;Weitreichende Linux Kenntnisse
+&lt;ul&gt;
+&lt;li&gt;Debian, Archlinux, Ubuntu, CentOS, Gentoo u.v.m
+&lt;ul&gt;
+&lt;li&gt;Entwicklung von kundenspezifischen Distributionen(u.a. als ThinClient Ersatz)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Docker Hosting&lt;/li&gt;
+&lt;li&gt;Nagios/Icinga/Grafana Entwicklung&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Weitreichende Windows Kenntnisse
+&lt;ul&gt;
+&lt;li&gt;Ab Windows Server 2003&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Hosting/DevOps
+&lt;ul&gt;
+&lt;li&gt;Cloud Lösungen&lt;/li&gt;
+&lt;li&gt;Git&lt;/li&gt;
+&lt;li&gt;Docker&lt;/li&gt;
+&lt;li&gt;VMWare&lt;/li&gt;
+&lt;li&gt;Ansible&lt;/li&gt;
+&lt;li&gt;AWX&lt;/li&gt;
+&lt;li&gt;Veeam&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Branchenwissen
+&lt;ul&gt;
+&lt;li&gt;Dienstleister im Gesundheitswesen&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Habe ich ihr Interesse geweckt:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;mailto:contact@brickwedde.it&#34;&gt;contact@brickwedde.it&lt;/a&gt;&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>418: You should not be here</title>
+      <link>/data/</link>
+      <pubDate>Mon, 22 Jul 2019 20:31:41 +0200</pubDate>
+      
+      <guid>/data/</guid>
+      <description>&amp;gt;Sorry could not ls into the dirs
+418 </description>
+      <content>&lt;p&gt;&lt;code&gt;&amp;gt;Sorry could not ls into the dirs&lt;/code&gt;&lt;/p&gt;
+&lt;h1 id=&#34;418&#34;&gt;418&lt;/h1&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>/contact/</link>
+      <pubDate>Mon, 22 Jul 2019 20:31:41 +0200</pubDate>
+      
+      <guid>/contact/</guid>
+      <description>Click here
+ Or not</description>
+      <content>&lt;p&gt;Click here&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Or not&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Impressum</title>
+      <link>/impressum/</link>
+      <pubDate>Mon, 22 Jul 2019 20:31:41 +0200</pubDate>
+      
+      <guid>/impressum/</guid>
+      <description>Jep it&amp;rsquo;s here</description>
+      <content>&lt;p&gt;Jep it&amp;rsquo;s here&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>
